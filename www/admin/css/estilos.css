@@ -1,0 +1,7 @@
+.altura{
+    height:700px;
+}
+
+.form-control[readonly] {
+    background-color: white !important;
+  }
